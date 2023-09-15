@@ -7,10 +7,13 @@ Paper: [arxiv; not final version](https://guangkechen.site//SLMIA-SR_NDSS-2024/S
 The code is under preparation. Stay tuned.
 
 Cite our paper as follows:
+```
 @inproceedings{SLMIA-SR,
   author       = {Guangke Chen and Yedi Zhang and Fu Song},
   title        = {SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems},
-  booktitle    = {31st Annual Network and Distributed System Security Symposium, {NDSS} 2023, San Diego, California, USA, February 26 - March 1, 2024},
+  booktitle    = {31st Annual Network and Distributed System Security Symposium, {NDSS} 2024,
+                  San Diego, California, USA, February 26 - March 1, 2024},
   publisher    = {The Internet Society},
   year         = {2024},
 }
+```
