@@ -1,4 +1,4 @@
-## SKMIA-SR
+## SLMIA-SR
 Source code for the paper "SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems" 
 accepted by the 31st Network and Distributed System Security Symposium (NDSS 2024)
 
@@ -12,8 +12,7 @@ Cite our paper as follows:
   author       = {Guangke Chen and Yedi Zhang and Fu Song},
   title        = {SLMIA-SR: Speaker-Level Membership Inference Attacks
                   against Speaker Recognition Systems},
-  booktitle    = {31st Annual Network and Distributed System Security Symposium, {NDSS} 2024,
-                  San Diego, California, USA, February 26 - March 1, 2024},
+  booktitle    = {31st Annual Network and Distributed System Security Symposium, {NDSS} 2024},
   publisher    = {The Internet Society},
   year         = {2024},
 }
